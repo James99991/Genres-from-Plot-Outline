@@ -1,2 +1,3 @@
-# Genres-from-Plot-Outline
-Text Mining Project
+# Notebooks
+
+Notebooks used for this project

@@ -1,2 +1,3 @@
 # Genres-from-Plot-Outline
-Text Mining Project
+
+Folder containing important - project specific info.

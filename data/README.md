@@ -1,2 +1,2 @@
-# Genres-from-Plot-Outline
-Text Mining Project
+# Data
+Data used for this project
